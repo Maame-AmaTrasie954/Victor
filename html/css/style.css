@@ -827,23 +827,17 @@ button {
     color: #fff;
 }
 
-#home_contact_btn {
-    background-color: #00BF63;
-}
-
-#home_contact_btn a {
-    color: #fff;
-}
-
-#home_contact_btn:hover {
-    background-color: #fff;
+#home_contact {
+    border-style: solid;
     border-color: #00BF63;
-    color:#00BF63;
+    border-width: 2px;
+    padding: 3%;
 }
 
-#home_contact_btn a:hover {
-    background-color: #fff;
-    color:#00BF63;
+#home_contact:hover {
+    background-color: #00BF63;
+    border-color: #00BF63;
+    color:#fff;
 }
 
 
