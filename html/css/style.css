@@ -187,7 +187,7 @@ img {
 }
 
 .form-control:focus {
-    border-color: #ffffff !important;
+    /*border-color: #ffffff !important;*/
     box-shadow: 0 0 0 .2rem rgba(255, 255, 255, .25);
 }
 
@@ -814,6 +814,36 @@ button {
 .btnbtn-default submit-button{
     background-color: #f00c0c;
     color:#ffffff
+}
+
+#contact_submit_btn {
+    background-color: #fff;
+    border-color: #00BF63;
+    border-width: 2px;
+}
+
+#contact_submit_btn:hover {
+    background-color: #00BF63;
+    color: #fff;
+}
+
+#home_contact_btn {
+    background-color: #00BF63;
+}
+
+#home_contact_btn a {
+    color: #fff;
+}
+
+#home_contact_btn:hover {
+    background-color: #fff;
+    border-color: #00BF63;
+    color:#00BF63;
+}
+
+#home_contact_btn a:hover {
+    background-color: #fff;
+    color:#00BF63;
 }
 
 
