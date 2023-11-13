@@ -368,9 +368,9 @@ button {
 
 .read_bt {
     width: 170px;
-   
+    float: right;
     padding-top: 50px;
-    align-items: center;
+   
   
 }
 
